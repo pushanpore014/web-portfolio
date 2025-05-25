@@ -1,2 +1,2 @@
-# web-portfolio
-My-Portfolio-Website
+Welcome to my portfolio,
+Dont hesitate to drop a message.
